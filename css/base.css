@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-style: normal;
+}
+body{
+	background: #fff;
+	background-image: url("../img/20171206192020486IC5 (1).jpg");
+    background-repeat: no-repeat;
+    background-position: center -50px;
+
+}
+a{
+	text-decoration: none;
+}
+img{
+	border: none;
+}
